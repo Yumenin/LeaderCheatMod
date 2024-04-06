@@ -9,7 +9,7 @@ using UnityEngine.SceneManagement;
 using System.Text.RegularExpressions;
 
 
-namespace CheatMenu
+namespace CheatMenuSpace
 {
     public class CheatLoader : MelonMod
     {

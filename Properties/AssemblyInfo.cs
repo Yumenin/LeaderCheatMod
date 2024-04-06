@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Runtime.InteropServices.ComTypes;
 using MelonLoader;
-using CheatMenu; // The namespace of your mod class
+using CheatMenuSpace; // The namespace of your mod class
 // ...
 [assembly: MelonInfo(typeof(CheatLoader), "Leader Cheat Mod", "1.0.0", "Malvorium")]
 

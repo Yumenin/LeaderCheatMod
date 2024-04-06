@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using MelonLoader;
 using UnityEngine;
 
-namespace CheatMenu
+namespace CheatMenuSpace
 {
     public class Cheat
     {
